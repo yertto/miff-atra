@@ -1,0 +1,11 @@
+.cache*
+.db
+devel.db
+TODO
+*.log
+.bundle
+.rvmrc
+
+# don't *think* these are needed in the repo
+Gemfile.lock
+*.gemspec

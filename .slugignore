@@ -1,0 +1,5 @@
+# want to keep the slugsize down on heroku
+*.psd
+*.pdf
+test
+spec
